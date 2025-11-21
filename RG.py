@@ -1,4 +1,4 @@
-from DB import *
+from db.DB import *
 def mesProjets():
     return listeTable("PROJECTS")
 
